@@ -8,3 +8,5 @@ numbers.each do |n| *
 numbers 
 
 end
+
+{ |e| puts e + 2 }
